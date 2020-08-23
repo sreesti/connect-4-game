@@ -1,2 +1,2 @@
 # connect-4-game
-Internshala final project solution
+Internshala Java final project solution
